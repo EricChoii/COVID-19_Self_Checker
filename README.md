@@ -37,4 +37,8 @@ Shell: 110, 1430 Monroe St, 8:30am-4:30pm, 25.900000, 86.300003, 0
 ![image](https://user-images.githubusercontent.com/39285147/151660239-422caad1-d9f9-400f-9833-9bc70511b049.png)
 
 ### Notes
-All these codes are made by Eric Choi. If you want to see the codes, contact me on Linkedin.
+All these codes are made by Eric Choi.
+
+If you want to see the codes, contact me on Linkedin.
+
+Thank you for your time reading this instruction, and hope you enjoy this app! Wish you all the best.
