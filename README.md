@@ -2,7 +2,7 @@
 ![image](https://user-images.githubusercontent.com/39285147/151659928-9c91f101-84a2-4837-80eb-5d9fa969203b.png)
 
 ### A simple, quick coronavirus self checker!
-This software provides several services:
+This software provides the following services:
 - view testing locations
 - make/view reservation
 - self symptom check
@@ -11,7 +11,7 @@ This software provides several services:
 - others (e.g., unit settings, load/save user data, etc.)
 
 ### Locations Data
-You might edit "locations.txt" to apply new testing locations.
+You might want to edit "locations.txt" for new testing locations.
 
 The format of writing locations as follows:
 - The very first line: # locations
